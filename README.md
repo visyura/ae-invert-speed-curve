@@ -6,6 +6,13 @@ When the original time-remapped layer and the generated inverse layer are combin
 **Important**: The script processes the curve frame-by-frame, which completely degrades audio quality in the output layer.
 
 
+## How to Use
+
+1. Select your layer with Time Remapping enabled and the curve you want to invert
+2. Go to **File > Scripts > Run Script File...**
+3. Select the script file to execute
+
+
 
 
 
